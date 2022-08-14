@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">doubutu</string>
+    <string name="non_text">？？？</string>
+    <string name="inu_text">イヌ</string>
+    <string name="neko_text">ネコ</string>
+    <string name="hamu_text">ハムスター</string>
+    <string name="usa_text">ウサギ</string>
+    <string name="risu_text">リス</string>
+    <string name="uma_text">ウマ</string>
+    <string name="suzume_text">スズメ</string>
+    <string name="pen_text">ペンギン</string>
+    <string name="ran_text">ランダム</string>
+    <string name="image_icon">Icon</string>
+</resources>
